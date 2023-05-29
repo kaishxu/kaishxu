@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Kaishuai !
+### 👋 Hi there, I’m Kaishuai!
 
 - 👀 I’m interested in Dialogue Systems and Medical AI.
 - 🌱 I am a Ph.D. candidate at The Hong Kong Polytechnic University, supervised by [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
