@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Kaishuai!
 
-- 👀 I’m interested in Dialogue Systems and Medical AI.
+- 👀 I’m interested in LLM Application, Medical AI, and trustworthy AI.
 - 🌱 I am a Ph.D. candidate at The Hong Kong Polytechnic University, supervised by [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
 - 👯 I’m looking to collaborate on anything that cover my interests!
 - 📫 You can reach me at [kaishuaii.xu@connect.polyu.hk](kaishuaii.xu@connect.polyu.hk)
