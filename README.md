@@ -6,13 +6,13 @@
 - 📫 You can reach me at [kaishuaii.xu@connect.polyu.hk](kaishuaii.xu@connect.polyu.hk)
 
 <!---
-[![Paras's github stats](https://github-readme-stats.vercel.app/api?username=KaishuaiXu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Paras's github stats](https://github-readme-stats.vercel.app/api?username=kaishxu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 --->
-![kaishuai's github stats](https://github-readme-stats.vercel.app/api?username=KaishuaiXu&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
+![kaishuai's github stats](https://github-readme-stats.vercel.app/api?username=kaishxu&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
 <!---
-![](https://komarev.com/ghpvc/?username=KaishuaiXu&color=blue)
+![](https://komarev.com/ghpvc/?username=kaishxu&color=blue)
 --->
 <!---
-KaishuaiXu/KaishuaiXu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kaishxu/kaishxu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
