@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Kaishuai!
 
-- 👀 I’m interested in LLM Applications, LLM Alignment, and Medical AI.
+- 👀 I’m interested in LLM-based reasoning, Conversational AI, and Medical AI.
 - 🌱 I am a Ph.D. candidate at The Hong Kong Polytechnic University, supervised by [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
 - 📫 You can reach me at [kaishuaii.xu@connect.polyu.hk](kaishuaii.xu@connect.polyu.hk)
 
